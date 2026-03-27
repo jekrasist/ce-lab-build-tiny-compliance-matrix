@@ -1,0 +1,16 @@
+{
+    "trailList": [
+        {
+            "Name": "lab-m8-08-security-trail",
+            "S3BucketName": "cloudtrail-logs-741429964627-1774533681",
+            "IncludeGlobalServiceEvents": true,
+            "IsMultiRegionTrail": true,
+            "HomeRegion": "us-east-1",
+            "TrailARN": "arn:aws:cloudtrail:us-east-1:741429964627:trail/lab-m8-08-security-trail",
+            "LogFileValidationEnabled": false,
+            "HasCustomEventSelectors": false,
+            "HasInsightSelectors": false,
+            "IsOrganizationTrail": false
+        }
+    ]
+}
